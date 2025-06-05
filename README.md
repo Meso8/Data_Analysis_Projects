@@ -1,2 +1,2 @@
-# Project1_data_analysis
-IBM Data analysis code 
+# Data Analysis Learning 
+This repository contains Data Analysis projects using different methods
